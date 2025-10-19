@@ -20,5 +20,5 @@ Early research preview. Implementation in progress. Benchmarks coming soon.
 
 ---
 
-**License:** MIT  
+**License:** Eclipse Public License 
 **Contact:** [LinkedIn](https://www.linkedin.com/in/mykhailo-lapshyn-2a3702309) • [Email](mailto:lapshynmisha@gmail.com)
